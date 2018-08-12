@@ -1,0 +1,24 @@
+#sales-dashboard {
+  .sales-control {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+
+  .sales-counter {
+    text-align: center;
+
+    span {
+      font-size: 100px;
+      position: relative;
+      top: 45px;
+    }
+  }
+}
+
+#top-nav-bar {
+  .logout-btn {
+    margin-right: 16px;
+  }
+}
